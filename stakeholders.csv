@@ -2,6 +2,9 @@ Voornaam;Naam;Affiliatie;E-mail;Website;Perceel;Bedrijventerrein
 Michiel;De Keyzer;PwC;michiel.de.keyzer@pwc.com;http://www.pwc.be;E;E
 Kevin;Haleydt;PwC;kevin.haleydt@pwc.com;http://www.pwc.be;E;E
 Toon;Dirckx;Quares;toon.dirckx@quares.be;;;C
+Robin;Noulez;Intercommunale Leiedal;robin.noulez@leiedal.be;;;C
+Emma;De Proft;Interleuven;emma.de.proft@interleuven.be;;;C
+Frederik;Bracke;Veneco;frederik.bracke@veneco.be;;;C
 Pascal;De Greve;Agentschap Innoveren en Ondernemen;pascal.degreve@vlaio.be;;C;C
 Griet;Keersmaekers;Mathieu Gijbels;griet.keersmaekers@gijbels.be;;;C
 Benoit;Bodré;Provinciale Ontwikkelingsmaatschappij Oost-Vlaanderen;benoit.bodere@pomov.be;;;C
@@ -17,7 +20,9 @@ Iris;Deliever;Provinciale Ontwikkelingsmaatschappij Vlaams-Brabant;iris.deliever
 Koen;De Baets;Agentschap Informatie Vlaanderen;Koen.DeBaets@kb.vlaanderen.be;;C;C
 Idris;Peiren;Agentschap Innoveren en Ondernemen;idris.peiren@vlaio.be;;A;A
 Floris;Van den Broeck;Agentschap Innoveren en Ondernemen;floris.vandenbroeck@vlaio.be;;C;C
-Bert;Van Nuffelen;Agentschap Informatie Vlaanderen;bert.vannuffelen@kb.vlaanderen.be;;C;C
+Bert;Van Nuffelen;Agentschap Informatie Vlaanderen;bert.vannuffelen@kb.vlaanderen.be;;E;E
+Bert;Van Nuffelen;Agentschap Informatie Vlaanderen;bert.vannuffelen@kb.vlaanderen.be;;E;E
+Martin;Vanbrabant;Agentschap Informatie Vlaanderen;martin.vanbrabant@vlaanderen.be;;E;E
 Jana;Van Rompaey;Provinciale Ontwikkelingsmaatschappij Vlaams-Brabant;jana.vanrompaey@pomvlaamsbrabant.be;;C;C
 Tom;Decock;Provinciale Ontwikkelingsmaatschappij West-Vlaanderen;tom.decock@pomwvl.be;;;C
 Raf;Deblay;Aura;raf.deblay@aura.eu.com;;;C
@@ -26,7 +31,7 @@ Stefan;Van Malderen;Agentschap Informatie Vlaanderen;Stefan.VanMalderen@kb.vlaan
 Erwin;Sevens;Openbare Vlaamse Afvalstoffenmaatschappij;esevens@ovam.be;;C;
 Joris;Niessen;Departement Omgeving;joris.niessen@vlaanderen.be;;C;
 Diedrik;Gaus;Stad Gent;Diedrik.Gaus@stad.gent;;C;
-Bart;Boute;WVI;b.boute@wvi.be;;C;
+Bart;Boute;WVI;b.boute@wvi.be;;C;C
 Luc;Depredomme;Agentschap Informatie Vlaanderen;Luc.Depredomme@kb.vlaanderen.be;;C;
 Raf;Buyle;Agentschap Informatie Vlaanderen;;;C;
 Veerle;Beyaert;Agentschap Informatie Vlaanderen;veerle.beyaert@kb.vlaanderen.be;;C;
