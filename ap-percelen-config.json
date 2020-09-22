@@ -1,11 +1,12 @@
 {
   "naam": "Applicatieprofiel Percelen",
+  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/applicatieprofiel/perceel/erkendestandaard/2020-06-18/all-perceel.jsonld",
   "verantwoordelijke_organisatie": "Agentschap Innoveren en Ondernemen",
   "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000039",
   "publicatiedatum": "2020-04-23",
   "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Vocabularium & applicatieprofielen",
-  "description_file" : "ap-percelen.md",
+  "beschrijving" : "ap-percelen.md",
   "specificatiedocument": [
     {
       "naam": "Applicatieprofiel Perceel",

@@ -1,11 +1,12 @@
 {
   "naam": "Vocabularium Bedrijventerreinen",
+  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/vocabularium/bedrijventerrein/erkendestandaard/2020-06-18/all-bedrijventerrein.jsonld",
   "verantwoordelijke_organisatie": "Agentschap Innoveren en Ondernemen",
   "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000039",
   "publicatiedatum": "2020-04-23",
   "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Vocabularium & applicatieprofielen",
-  "description_file" : "voc-bedrijventerrein.md",
+  "beschrijving" : "voc-bedrijventerrein.md",
   "specificatiedocument": [
     {
       "naam": "Vocabularium Bedrijventerrein",

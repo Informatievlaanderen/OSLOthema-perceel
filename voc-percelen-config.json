@@ -1,11 +1,12 @@
 {
   "naam": "Vocabularium Percelen",
+  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/vocabularium/perceel/erkendestandaard/2020-06-18/all-perceel.jsonld",
   "verantwoordelijke_organisatie": "Agentschap Innoveren en Ondernemen",
   "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000039",
   "publicatiedatum": "2020-04-23",
   "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Vocabularium & applicatieprofielen",
-  "description_file" : "voc-percelen.md",
+  "beschrijving" : "voc-percelen.md",
   "specificatiedocument": [
     {
       "naam": "Vocabularium Perceel",
