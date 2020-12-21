@@ -1,9 +1,9 @@
 {
-  "naam": "Applicatieprofiel Bedrijventerreinen",
+  "naam": "Applicatieprofiel Bedrijventerrein",
   "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/applicatieprofiel/bedrijventerrein/erkendestandaard/2020-06-18/all-bedrijventerrein.jsonld",
   "verantwoordelijke_organisatie": "Agentschap Innoveren en Ondernemen",
   "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000039",
-  "publicatiedatum": "2020-04-23",
+  "publicatiedatum": "2020-06-18",
   "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Vocabularium & applicatieprofielen",
   "beschrijving" : "ap-bedrijventerrein.md",
@@ -71,6 +71,7 @@
   "functioneel_toepassingsgebied": "Semantische standaard voor informatie met betrekking tot bedrijventerreinen",
   "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
   "datum_van_aanmelding": "14 Maart 2019 (retroactief)",
+  "datum_einde_review": "15 April 2020",
   "erkenning_werkgroep_datastandaarden": "23 April 2020",
-  "erkenning_stuurgroep": "TBD"
+  "erkenning_stuurgroep": "18 Juni 2020"
 }
