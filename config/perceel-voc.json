@@ -13,7 +13,7 @@
     "contributors-column": "Perceel",
     "site": "site-skeleton/perceel",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-perceel/issues",
-    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/erkende-standaarden/vocabularium-percelen/vocabularium-percelen.html",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/vocabularium-perceel/",
     "dependencies": []
   }
 ]

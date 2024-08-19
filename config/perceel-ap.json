@@ -13,7 +13,7 @@
     "contributors-column": "Perceel",
     "site": "site-skeleton/perceel",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-perceel/issues",
-    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/erkende-standaarden/applicatieprofiel-percelen/applicatieprofiel-percelen.html",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/applicatieprofiel-perceel/",
     "dependencies": []
   }
 ]

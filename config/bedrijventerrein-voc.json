@@ -13,7 +13,7 @@
     "contributors-column": "Bedrijventerrein",
     "site": "site-skeleton/bedrijventerrein",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-perceel/issues",
-    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/erkende-standaarden/vocabularium-bedrijventerreinen/vocabularium-bedrijventerreinen.html",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/vocabularium-bedrijventerrein/",
     "dependencies": []
   }
 ]
