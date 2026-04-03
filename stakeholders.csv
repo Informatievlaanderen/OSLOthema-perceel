@@ -1,18 +1,18 @@
 Voornaam;Naam;Affiliatie;E-mail;Website;Perceel;Bedrijventerrein
 Michiel;De Keyzer;PwC;michiel.de.keyzer@pwc.com;http://www.pwc.be;E;E
 Kevin;Haleydt;PwC;kevin.haleydt@pwc.com;http://www.pwc.be;E;E
-Toon;Dirckx;Quares;toon.dirckx@quares.be;;;C
-Robin;Noulez;Intercommunale Leiedal;robin.noulez@leiedal.be;;;C
+Toon;Dirckx;Quares;toon.dirckx@quares.be;;U;C
+Robin;Noulez;Intercommunale Leiedal;robin.noulez@leiedal.be;;U;C
 Emma;De Proft;Interleuven;emma.de.proft@interleuven.be;;;C
-Frederik;Bracke;Veneco;frederik.bracke@veneco.be;;;C
+Frederik;Bracke;Veneco;frederik.bracke@veneco.be;;U;C
 Pascal;De Greve;Agentschap Innoveren en Ondernemen;pascal.degreve@vlaio.be;;C;C
-Griet;Keersmaekers;Mathieu Gijbels;griet.keersmaekers@gijbels.be;;;C
-Benoit;Bodré;Provinciale Ontwikkelingsmaatschappij Oost-Vlaanderen;benoit.bodere@pomov.be;;;C
+Griet;Keersmaekers;Mathieu Gijbels;griet.keersmaekers@gijbels.be;;U;C
+Benoit;Bodré;Provinciale Ontwikkelingsmaatschappij Oost-Vlaanderen;benoit.bodere@pomov.be;;U;C
 Caroline;Vandendriessche;VLINTER (Interleuven);caroline.vandendriessche@interleuven.be;;C;C
 Ben;Six;Futurn NV;ben@futurn.com;;;C
 Bram;Adams;VLINTER (Interleuven);bram.adams@interleuven.be;;C;C
 Hendrik;Van Hemelryck;Agentschap Informatie Vlaanderen;hendrik.vanhemelryck@kb.vlaanderen.be;;C;C
-Sophie;De Mulder;Departement Omgeving;sophie.demulder@vlaanderen.be;;;C
+Sophie;De Mulder;Departement Omgeving;sophie.demulder@vlaanderen.be;;U;C
 Dirk;De Baere;Agentschap Informatie Vlaanderen;dirk.debaere@kb.vlaanderen.be;;C;C
 Geert;Van Haute;Departement Omgeving;geert.vanhaute@vlaanderen.be;;C;C
 Veronique;Lavaert;Departement Omgeving;Veronique.Lavaert@vlaanderen.be;;;C
@@ -23,8 +23,8 @@ Floris;Van den Broeck;Agentschap Innoveren en Ondernemen;floris.vandenbroeck@vla
 Bert;Van Nuffelen;Agentschap Informatie Vlaanderen;bert.vannuffelen@kb.vlaanderen.be;;E;E
 Martin;Vanbrabant;Agentschap Informatie Vlaanderen;martin.vanbrabant@vlaanderen.be;;E;E
 Jana;Van Rompaey;Provinciale Ontwikkelingsmaatschappij Vlaams-Brabant;jana.vanrompaey@pomvlaamsbrabant.be;;C;C
-Tom;Decock;Provinciale Ontwikkelingsmaatschappij West-Vlaanderen;tom.decock@pomwvl.be;;;C
-Raf;Deblay;Aura;raf.deblay@aura.eu.com;;;C
+Tom;Decock;Provinciale Ontwikkelingsmaatschappij West-Vlaanderen;tom.decock@pomwvl.be;;U;C
+Raf;Deblay;Aura;raf.deblay@aura.eu.com;;U;C
 Maxime;Heyndrickx;SCIP-CSPI;maxime.heyndrickx@scip-cspi.be;;C;
 Stefan;Van Malderen;Agentschap Informatie Vlaanderen;Stefan.VanMalderen@kb.vlaanderen.be;;C;
 Erwin;Sevens;Openbare Vlaamse Afvalstoffenmaatschappij;esevens@ovam.be;;C;
