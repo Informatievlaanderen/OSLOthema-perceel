@@ -3,7 +3,7 @@
     "name": "perceel",
     "type": "voc",
     "title" : "Perceel",
-    "eap": "OSLO-Perceel-VOC.eap",
+    "eap": "OSLO-Perceel-AP.eap",
     "diagram": "OSLO-Perceel",
     "template": "perceel-voc.j2",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/Standaard",
