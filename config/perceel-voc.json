@@ -4,7 +4,7 @@
     "type": "voc",
     "title" : "Perceel",
     "eap": "OSLO-Perceel-AP.eap",
-    "diagram": "OSLO-Perceel",
+    "diagram": "OSLO-PerceelApplicatieprofiel",
     "template": "perceel-voc.j2",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/Standaard",
     "publication-date": "2020-06-18",
