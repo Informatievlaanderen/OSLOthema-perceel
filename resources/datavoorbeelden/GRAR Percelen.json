@@ -1,0 +1,71 @@
+
+{
+    "@context": "example.org",
+    "@type": "PercelenEnvelop",
+    "data":
+    [
+        {
+        "@type": "KadastraalPlanperceel",
+        "@id": "https://data.vlaanderen.be/id/perceel/11001B0001-00S000",
+        "identificator":[ {
+            "@type": "Identificator",
+            "gestructureerdeIdentificator": {
+                "@type": "GestructureerdeIdentificator",
+                "lokaleIdentificator": "11001B0001-00S000",
+                "naamruimte": "https://data.vlaanderen.be/id/perceel",
+                "versieIdentificator": "2026-08-17T13:29:37+02:00"
+            },
+            "toegekendDoor": { "@id":"https://data.vlaanderen.be/id/organisatie/OVO054890"}
+            },
+            {
+            "@type":"Identificator",
+            "toegekendDoor": { "@id":"https://data.vlaanderen.be/id/organisatie/OVO027170"},
+            "identificator": "11001B0001/00S000"
+        }],
+        "status": {
+            "@id": "https://data.vlaanderen.be/id/concept/perceelstatus/gerealiseerd",
+            "@type": "Concept",
+            "code": "gerealiseerd",
+            "voorkeursnaam": {
+                "@value": "gerealiseerd",
+                "@language": "nl"
+            }
+        },
+        "detail":"https://api.basisregisters.vlaanderen.be/v2/percelen/11001B0001-00S000"
+        },
+
+        {
+        "@type": "KadastraalPlanperceel",
+        "@id": "https://data.vlaanderen.be/id/perceel/11001B0009-00G004",
+        "identificator":[ {
+            "@type": "Identificator",
+            "gestructureerdeIdentificator": {
+                "@type": "GestructureerdeIdentificator",
+                "lokaleIdentificator": "11001B0009-00G004",
+                "naamruimte": "https://data.vlaanderen.be/id/perceel",
+                "versieIdentificator": "2026-08-17T13:29:37+02:00"
+            },
+            "toegekendDoor": { "@id":"https://data.vlaanderen.be/id/organisatie/OVO054890"}
+            },
+            {
+            "@type":"Identificator",
+            "toegekendDoor": { "@id":"https://data.vlaanderen.be/id/organisatie/OVO027170"},
+            "identificator": "11001B0009/00G004"
+        }],
+        "status": {
+            "@id": "https://data.vlaanderen.be/id/concept/perceelstatus/gerealiseerd",
+            "@type": "Concept",
+            "code": "gerealiseerd",
+            "voorkeursnaam": {
+                "@value": "gerealiseerd",
+                "@language": "nl"
+            }
+        },
+        "detail":"https://api.basisregisters.vlaanderen.be/v2/percelen/11001B0009-00G004"
+        }
+
+        
+    ],
+    "volgende":"https://api.basisregisters.vlaanderen.be/v2/percelen?offset=2&limit=10"
+
+}
