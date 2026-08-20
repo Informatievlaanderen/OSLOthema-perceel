@@ -1,0 +1,33 @@
+[
+    {
+      "name": "grar-im",
+      "type": "impl",
+      "eap": "OSLO-Perceel-GRAR-IM.eap",
+      "diagram": "OSLO-PerceelImplementatie",
+      "template": "perceel-im.j2",
+      "title": "GRAR-Perceel Implementatiemodel",
+      "license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+      "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+      "publication-date": "2026-08-20",
+      "contributors-file": "stakeholders.csv",
+      "contributors-column": "Perceel",
+      "site": "site-skeleton/perceel-IM",
+      "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion"
+    },
+    {
+    "name": "grar-im-voc",
+    "prefix": "grar",
+    "type": "voc",
+    "eap": "OSLO-Perceel-GRAR-IM.eap",
+    "diagram": "OSLO-PerceelImplementatie",
+    "template": "perceel-voc-im.j2",
+    "title": "GRAR-Perceel Vocabularium",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/Standaard",
+    "publication-date": "2026-08-20",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Perceel",
+    "site": "site-skeleton/perceel-IM",
+    "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/vocabularium-perceel-im/"
+  }
+]
