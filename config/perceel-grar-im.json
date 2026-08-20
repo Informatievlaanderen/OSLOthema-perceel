@@ -1,6 +1,6 @@
 [
     {
-      "name": "grar-im",
+      "name": "perceel-im",
       "type": "impl",
       "eap": "OSLO-Perceel-GRAR-IM.eap",
       "diagram": "OSLO-PerceelImplementatie",
@@ -15,7 +15,7 @@
       "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion"
     },
     {
-    "name": "grar-im-voc",
+    "name": "perceel-im-voc",
     "prefix": "grar",
     "type": "voc",
     "eap": "OSLO-Perceel-GRAR-IM.eap",
